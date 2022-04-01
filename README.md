@@ -8,14 +8,14 @@ Our team (TaoMC2) wins the NTIRE 2022 Challenge on Super-Resolution and Quality 
 
 ## Resource
 
-- [ ] Validation of our performance: official report of the challenge (eta: May 2022).
-- [ ] Report of our pre-training and progressive training method: workshop (eta: May 2022).
+- [ ] Report of our performance: official report of the challenge (eta: May 2022).
+- [ ] Report of our pre-training and progressive training method: CVPRW 2022 (eta: May 2022).
 - [ ] Report of our improved flows and the strategy of removing redundant frames: paper (eta: June 2022).
-- [ ] Challenge memoirs: blog (eta: June 2022).
+- [ ] Memoirs: blog (eta: June 2022).
 
-Model and data-set: due to the legal limitation, we cannot release our model and data-set for this competition temporally.
+Due to the legal limitation, we cannot release our model and data-set for this competition temporally.
 
-We will open-source the code and model for our paper when the paper is published.
+We will open-source the code and model for our published paper.
 
 ## Acknowledgement
 
@@ -25,4 +25,4 @@ Thanks to my mentor Meisong Zheng, teammate [Minglang Qiao](https://github.com/M
 
 Thanks to the great support from [BUAA MC2 Lab](http://www.buaamc2.net).
 
-Thanks to the great efforts of the open-sourced projects [mmediting](https://github.com/open-mmlab/mmediting), [Swin-IR](https://github.com/JingyunLiang/SwinIR), [ConvNeXt](https://github.com/facebookresearch/ConvNeXt) and [MPRNet](https://github.com/swz30/MPRNet).
+Thanks to the great efforts of the open-sourced projects [mmediting](https://github.com/open-mmlab/mmediting), [SwinIR](https://github.com/JingyunLiang/SwinIR), [ConvNeXt](https://github.com/facebookresearch/ConvNeXt) and [MPRNet](https://github.com/swz30/MPRNet).
