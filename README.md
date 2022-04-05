@@ -21,6 +21,6 @@ We will open-source the code and model for our published paper.
 
 This work is done during my research intern at the [Tao Tech department](https://tech.taobao.org), Alibaba Group.
 
-Thanks to my mentor Mei-song Zheng, teammate [Ming-lang Qiao](https://github.com/MinglangQiao), advisor [Mai Xu](https://scholar.google.com/citations?user=JdhDuXAAAAAJ), Huai-da Liu and [Ying Chen](https://scholar.google.com/citations?user=NpTmcKEAAAAJ).
+Thanks to my mentor Meisong Zheng, teammates [Minglang Qiao](https://github.com/MinglangQiao) and [Lai Jiang](https://github.com/remega), advisor [Mai Xu](https://scholar.google.com/citations?user=JdhDuXAAAAAJ), Huaida Liu and [Ying Chen](https://scholar.google.com/citations?user=NpTmcKEAAAAJ).
 
 Thanks to the great efforts of the open-sourced projects [mmediting](https://github.com/open-mmlab/mmediting), [SwinIR](https://github.com/JingyunLiang/SwinIR), [ConvNeXt](https://github.com/facebookresearch/ConvNeXt) and [MPRNet](https://github.com/swz30/MPRNet).
