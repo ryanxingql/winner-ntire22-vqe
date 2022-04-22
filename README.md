@@ -8,7 +8,7 @@ Our team (TaoMC2) wins the [NTIRE 2022 Challenge on Super-Resolution and Quality
 
 ## Open-Source
 
-- [x] Sharing of our experience: [[Blog-zh]](https://github.com/ryanxingql/winner-ntire22-vqe/blog_zh.md) [[Blog-en]](https://github.com/ryanxingql/winner-ntire22-vqe/blog_en.md)
+- [x] Sharing of our experience: [[Blog-zh]](https://github.com/ryanxingql/winner-ntire22-vqe/blob/main/blog_zh.md) [[Blog-en]](https://github.com/ryanxingql/winner-ntire22-vqe/blob/main/blog_en.md)
 - [x] Report of our performance: [[NTIRE22 official report]](https://arxiv.org/abs/2204.09314)
 - [x] Paper of our pre-training and progressive training method: [[CVPRW paper]](https://arxiv.org/abs/2204.09924)
 - [ ] Paper of our improved propagation and methods beyond competition (eta: July 2022)
