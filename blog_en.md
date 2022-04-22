@@ -1,6 +1,6 @@
 # Challenge Experience
 
-[[中文]](https://github.com/ryanxingql/winner-ntire22-vqe/blog_zh.md) [[Project page]](https://github.com/ryanxingql/winner-ntire22-vqe)
+[[中文]](https://github.com/ryanxingql/winner-ntire22-vqe/blob/main/blog_zh.md) [[Project page]](https://github.com/ryanxingql/winner-ntire22-vqe)
 
 Author: [Qunliang Xing](https://ryanxingql.github.io/)
 

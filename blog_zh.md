@@ -1,6 +1,6 @@
 # 比赛经验
 
-[[English]](https://github.com/ryanxingql/winner-ntire22-vqe/blog_en.md) [[项目主页]](https://github.com/ryanxingql/winner-ntire22-vqe)
+[[English]](https://github.com/ryanxingql/winner-ntire22-vqe/blob/main/blog_en.md) [[项目主页]](https://github.com/ryanxingql/winner-ntire22-vqe)
 
 作者：[幸群亮](https://ryanxingql.github.io/)
 
