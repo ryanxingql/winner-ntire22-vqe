@@ -8,17 +8,13 @@ Our team (TaoMC2) wins the [NTIRE 2022 Challenge on Super-Resolution and Quality
 
 ## Open-Source
 
-- [x] Sharing of our experience: [[Blog-zh]](https://github.com/ryanxingql/winner-ntire22-vqe/blob/main/blog_zh.md) [[Blog-en]](https://github.com/ryanxingql/winner-ntire22-vqe/blob/main/blog_en.md)
+- [ ] Sharing of our experience: Under review (eta: April 26)
 - [x] Report of our performance: [[NTIRE22 official report]](https://arxiv.org/abs/2204.09314)
 - [x] Paper of our pre-training and progressive training method: [[CVPRW paper]](https://arxiv.org/abs/2204.09924)
 - [ ] Paper of our improved propagation and methods beyond competition (eta: July 2022)
 
-Due to the legal limitation, we cannot release our data-set and model for this competition temporally. We will open-source the code and model for our published paper.
-
 ## Acknowledgement
 
-This work is done during my research intern at the department of [Tao Technology](https://tech.taobao.org), Alibaba Group.
-
-Thanks to my mentor Meisong Zheng, teammates [Minglang Qiao](https://github.com/MinglangQiao) and [Lai Jiang](https://github.com/remega), advisor [Mai Xu](https://scholar.google.com/citations?user=JdhDuXAAAAAJ), Huaida Liu and [Ying Chen](https://scholar.google.com/citations?user=NpTmcKEAAAAJ).
+Thanks to my teammates [Minglang Qiao](https://github.com/MinglangQiao), [Lai Jiang](https://github.com/remega) and advisor [Mai Xu](https://scholar.google.com/citations?user=JdhDuXAAAAAJ).
 
 Thanks to the great efforts of the open-sourced projects [mmediting](https://github.com/open-mmlab/mmediting), [SwinIR](https://github.com/JingyunLiang/SwinIR), [ConvNeXt](https://github.com/facebookresearch/ConvNeXt) and [MPRNet](https://github.com/swz30/MPRNet).
