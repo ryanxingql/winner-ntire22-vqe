@@ -13,7 +13,7 @@ This work is done during my internship. Due to the legal limitation, I have no r
 - [x] Sharing of our experience: [[Blog-zh]](https://github.com/ryanxingql/winner-ntire22-vqe/blob/main/blog_zh.md) [[Blog-en]](https://github.com/ryanxingql/winner-ntire22-vqe/blob/main/blog_en.md)
 - [x] Report of our performance: [[NTIRE22 official report]](https://arxiv.org/abs/2204.09314)
 - [x] Paper of our pre-training and progressive training method: [[CVPRW paper]](https://arxiv.org/abs/2204.09924)
-- [ ] Paper of our improved propagation and methods beyond competition (eta: July 2022)
+- [ ] Dataset, codes and models: as long as I am allowed.
 
 ## Acknowledgement
 
