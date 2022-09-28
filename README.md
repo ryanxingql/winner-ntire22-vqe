@@ -1,6 +1,6 @@
 # How We Win the NTIRE 2022 Challenge on Super-Resolution and Quality Enhancement of Compressed Video
 
-Our team (TaoMC2) wins the [NTIRE 2022 Challenge on Super-Resolution and Quality Enhancement of Compressed Video](https://data.vision.ee.ethz.ch/cvl/ntire22/)!
+Our team (TaoMC2) wins the [NTIRE 2022 challenge on super-resolution and quality enhancement of compressed video](https://data.vision.ee.ethz.ch/cvl/ntire22/)!
 
 - Track1 (Quality enhancement): **rank 1st!**
 - Track2 (Quality enhancement and x2 SR): **rank 1st!**
