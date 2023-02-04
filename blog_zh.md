@@ -17,10 +17,6 @@
     - [4.4 Transformer 依赖于预训练](#44-transformer-依赖于预训练)
     - [4.5 后记](#45-后记)
 
-作者：[幸群亮](https://ryanxingql.github.io/)，[樵明朗](https://github.com/MinglangQiao)，[蒋铼](https://github.com/remega)，[徐迈](https://scholar.google.com/citations?user=JdhDuXAAAAAJ)
-
-单位：[北航 MC2 Lab](http://www.buaamc2.net/)
-
 ## 1. 赛事背景
 
 NTIRE 挑战赛全称 New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing，是 CVPR 一系列 Workshop 中较为著名的一个（[CVPRW 2022](https://cvpr2022.thecvf.com/workshop-schedule) 一共收录了约 71 个 Workshop）。NTIRE 是 [Radu Timofte](https://scholar.google.ch/citations?user=u3MwH5kAAAAJ&hl=en) 主办的赛事，[第一次](https://data.vision.ee.ethz.ch/cvl/ntire/)在 ACCV 2016 举办，之后成为了 CVPRW 的常客。

@@ -11,6 +11,8 @@ We provide our data on [Dropbox](https://www.dropbox.com/sh/990dg5sbg0n7cev/AAAa
 - Stage 2 model
 - FFmpeg
 
+You can also download the models at [Releases](https://github.com/ryanxingql/winner-ntire22-vqe/releases).
+
 Data structure:
 
 ```md

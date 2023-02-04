@@ -17,10 +17,6 @@
     - [4.4 Use Transformers with Pre-training](#44-use-transformers-with-pre-training)
     - [4.5 Postscript](#45-postscript)
 
-Authors: [Qunliang Xing](https://ryanxingql.github.io/), [Minglang Qiao](https://github.com/MinglangQiao), [Lai Jiang](https://github.com/remega) and [Mai Xu](https://scholar.google.com/citations?user=JdhDuXAAAAAJ)
-
-Affiliation: [Beihang MC2 Lab](http://www.buaamc2.net/)
-
 ## 1. Challenge Background
 
 The full name of the NTIRE Challenge is "New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing". The NTIRE challenge is one of the most famous CVPR workshops (A total of about 71 workshops are included in [CVPRW 2022](https://cvpr2022.thecvf.com/workshop-schedule)). NTIRE is a workshop hosted by [Radu Timofte](https://scholar.google.ch/citations?user=u3MwH5kAAAAJ&hl=en), which is first held at [ACCV 2016](https://data.vision.ee.ethz.ch/cvl/ntire/) and has since become a regular at CVPRW.
