@@ -13,7 +13,7 @@ We provide our data on [Dropbox](https://www.dropbox.com/sh/990dg5sbg0n7cev/AAAa
 
 Data structure:
 
-```txt
+```md
 ntire-submission/
 |-- stage1/
 `-- stage2/
