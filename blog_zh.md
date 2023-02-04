@@ -29,7 +29,7 @@ NTIRE 挑战赛全称 New Trends in Image Restoration and Enhancement workshop a
 
 图：CVPRW22
 
-NTIRE 挑战赛细分了多个项目。多帧质量增强大项是 2021 年开始由[杨韧](https://scholar.google.ch/citations?user=3NgkOp0AAAAJ&hl=en)和 Radu 组织的，[最初](https://data.vision.ee.ethz.ch/cvl/ntire21/)包含 “PSNR 质量优化”和“主观质量优化”两个主题。[今年](https://data.vision.ee.ethz.ch/cvl/ntire22/)主办方删除了主观质量优化赛道，只保留了 PSNR 质量优化赛道，同时引入了超分辨率、质量优化耦合赛道。
+NTIRE 挑战赛细分了多个项目。多帧质量增强大项是 2021 年开始由[杨韧](https://scholar.google.ch/citations?user=3NgkOp0AAAAJ&hl=en)和 Radu 组织的，[最初](https://data.vision.ee.ethz.ch/cvl/ntire21/)包含「PSNR 质量优化」和「主观质量优化」两个主题。[今年](https://data.vision.ee.ethz.ch/cvl/ntire22/)主办方删除了主观质量优化赛道，只保留了 PSNR 质量优化赛道，同时引入了超分辨率、质量优化耦合赛道。
 
 <img src="figs/ntire21.png" width="60%">
 
@@ -143,7 +143,7 @@ PQF（关键帧）指的是视频中 PSNR 质量较高的帧，通常被赋予�
 
 - 显存不足：Video transformer 中的代表 VRT 使用了 8 卡 80 GB A100。而我们的计算资源为 1 台 8 卡 32GB V100 服务器和若干台 4 卡 32GB V100 服务器。
 - 耗时太长：VRT 一个模型要训练 5-7 天左右；而 A100 的速度是 V100 的 3 倍，因此我们训练一个相同的模型需要至少半个月。
-- 资源有限下性能堪忧：根据 VRT 的报告，在 7 帧短视频（如 Vimeo 数据集）上，VRT 性能超过 BasicVSR++；但对于长视频（如 REDS 每个视频 100帧），由于显存受限，VRT 无法一次性输入超过 16 帧的视频，性能上无法超过 BasicVSR++（能一次性输入 30 帧以上）。
+- 资源有限下性能堪忧：根据 VRT 的报告，在 7 帧短视频（如 Vimeo 数据集）上，VRT 性能超过 BasicVSR++；但对于长视频（如 REDS 每个视频 100 帧），由于显存受限，VRT 无法一次性输入超过 16 帧的视频，性能上无法超过 BasicVSR++（能一次性输入 30 帧以上）。
 
 <img src="figs/vrt.png" width="80%">
 
