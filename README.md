@@ -11,7 +11,7 @@ Our team (TaoMC2) wins the [NTIRE 2022 challenge on super-resolution and quality
 - [x] Experience sharing: [[Blog-zh]](https://github.com/ryanxingql/winner-ntire22-vqe/blob/main/blog_zh.md) [[Blog-en]](https://github.com/ryanxingql/winner-ntire22-vqe/blob/main/blog_en.md)
 - [x] Performance report: [[NTIRE22 report]](https://arxiv.org/abs/2204.09314)
 - [x] Method report: [[CVPR workshop paper]](https://arxiv.org/abs/2204.09924)
-- [x] Inference model: [[README]]((https://github.com/ryanxingql/winner-ntire22-vqe/blob/main/README_test.md))
+- [x] Inference model: [[README]](https://github.com/ryanxingql/winner-ntire22-vqe/blob/main/README_test.md)
 
 NOTE: Our approach consists of two stages and x8 test time augmentation (TTA) operations. One can infer only the first stage of our model without TTA and achieve good performance. One can also run the full inference of our approach to achieve optimal performance, but with more memory and longer running time.
 
